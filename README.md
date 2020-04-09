@@ -6,11 +6,10 @@
 * [Contributing](#contributing)
 
 ## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+Input the height and width, no bigger than 30, then submit, you will get a height * width grid.
+Pick a color from the color picker. 
+Click on the grid, then the cell is filled with the current color user choosed.
 
 ## Contributing
+This project is a good practice for HTML, CSS, and Javascript.
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
